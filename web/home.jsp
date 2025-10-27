@@ -493,7 +493,7 @@
     <!-- Navigation -->
     <nav class="nav">
         <div class="nav-content">
-            <a href="index.jsp" class="active">Trang Chủ</a>
+            <a href="home.jsp" class="active">Trang Chủ</a>
             <a href="#">Giảm Đau - Hạ Sốt</a>
             <a href="#">Vitamin</a>
             <a href="#">Thiết Bị Y Tế</a>
